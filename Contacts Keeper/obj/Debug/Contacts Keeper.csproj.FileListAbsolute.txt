@@ -1,0 +1,9 @@
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\bin\Debug\Contacts Keeper.exe.config
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\bin\Debug\Contacts Keeper.exe
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\bin\Debug\Contacts Keeper.pdb
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\obj\Debug\Contacts Keeper.csprojResolveAssemblyReference.cache
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\obj\Debug\Contacts_Keeper.Econtact.resources
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\obj\Debug\Contacts_Keeper.Properties.Resources.resources
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\obj\Debug\Contacts Keeper.csproj.GenerateResource.Cache
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\obj\Debug\Contacts Keeper.exe
+C:\Users\Mr.M.O\Desktop\Contacts Keeper\Contacts Keeper\Contacts Keeper\obj\Debug\Contacts Keeper.pdb
