@@ -17,3 +17,4 @@ Delete button : remove a contact from DataBase
 Erase button  : clear data from the form  
 
 Search button : search all over contacts in DataBase
+
