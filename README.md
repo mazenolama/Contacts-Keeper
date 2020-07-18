@@ -6,6 +6,8 @@ A person can only have one contact ID (P_K).
 Also can have multiple phone numbers and addresses. 
 And contain Search engine that can able to search a contact by name or  CID or his/her number.
 
+![](Capture.png)
+
 # Features: 
 
 Add button : adding a new contact 
